@@ -28,6 +28,6 @@ deliverable/
 ### How to build this app ###
 
 * Clone the repository [https://github.com/timhjellum/diginext](git clone https://github.com/timhjellum/diginext.git)
-* `cd "diginext`
+* `cd diginext`
 * `npm install`
 * `run npm start`
