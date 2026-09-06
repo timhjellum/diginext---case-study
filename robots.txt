@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diginext.netlify.app/sitemap.xml
